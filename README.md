@@ -19,6 +19,8 @@ Las **HoloLens 2** son un dispositivo desarrollado por el gigante Microsoft de r
 
 Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes medios audiovisuales, podremos tener una inmersión en primera persona en distintas experiencias. Estas experiencias como he comentado anteriormente se pueden centrar simplemente en el entretenimiento del usuario o llevarlo un escalón más allá y utilizarlo para la investigación y/o prácticas clínicas, fomentando así su uso a nivel educativo y profesional.
 
+![hololens](image1.png)
+
 En el ámbito que me centraré yo será el sanitario. Con la ejecución de diferentes aplicaciones compatibles con el software de estas gafas podremos ejecutar, recrear e interaccionar con diferentes entornos médicos y poner en práctica o perfeccionar diferentes habilidades y procedimientos de cirugías asistidas en modelos 3D superpuestos en tiempo real, haciendo uso de la realidad augmentada.
 
 ## Re-descubriendo la hibridación: Intel Shooting Star
