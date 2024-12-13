@@ -21,7 +21,7 @@ Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes med
 
 ![hololens](image1.jpg)
 
-En el ámbito que me centraré yo será el sanitario. Con la ejecución de diferentes aplicaciones compatibles con el software de estas gafas podremos ejecutar, recrear e interaccionar con diferentes entornos médicos y poner en práctica o perfeccionar diferentes habilidades y procedimientos de cirugías asistidas en modelos 3D superpuestos en tiempo real, haciendo uso de la realidad augmentada.
+En el ámbito que me centraré yo será el sanitario. Con la ejecución de diferentes aplicaciones compatibles con el software de estas gafas podremos ejecutar, recrear e interaccionar con diferentes entornos médicos y poner en práctica o perfeccionar diferentes habilidades y procedimientos de cirugías asistidas en modelos 3D superpuestos en tiempo real, haciendo uso de la realidad augmentada entre otras.
 
 Las posibilidades en este campo son infinitas, la integración y fusión de diferentes tecnologías audiovisuales lo hacen todavía mucho más funcional, más allá de la realidad mixta que ya de por si nos ofrece este dispositivo, la hibridación hace posible una serie de características y funcionalidades, comentaré algunas de ellas:
 
