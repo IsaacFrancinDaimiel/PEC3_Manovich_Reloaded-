@@ -1,3 +1,7 @@
-# PEC03: Visionando el futuro con las gafas de Manovich
+# Visionando el futuro con las gafas de Manovich
+![portada](image.png)
+#### Cultura digital - PEC03
 
-Hola
+#### Isaac Francín Daimiel
+
+#### 22/12/2024
