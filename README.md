@@ -17,7 +17,7 @@ En ambos casos se plantearán y comentarán aquellas características principale
 
 Las **HoloLens 2** son un dispositivo de realidad mixta desarrollado por el gigante **Microsoft**. Con estas gafas se puede combinar la realidad virtual (VR) y la realidad augmentada (AR), por lo que tenemos un amplio abanico de posibilidades para enfocar esta tecnología, ya sea a nivel de entretenimiento, investigación o exploración.
 
-Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes medios audiovisuales, podremos tener una inmersión en primera persona en distintas experiencias. Estas experiencias como he comentado anteriormente se pueden centrar simplemente en el entretenimiento del usuario, como por ejemplo los videojuegos, o llevarlo un escalón más allá y utilizarlo para la investigación y/o prácticas clínicas, fomentando así su uso a nivel educativo y profesional.
+Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes medios audiovisuales, podremos tener una inmersión en primera persona en distintas experiencias. Estas experiencias como he comentado anteriormente se pueden centrar simplemente en el entretenimiento del usuario, como por ejemplo los videojuegos, o llevarlo un escalón más allá y utilizarlo para la investigación y/o prácticas clínicas, fomentando así su uso a nivel educativo, laboral y profesional.
 
 ![hololens](image1.jpg)
 
@@ -31,6 +31,10 @@ Las posibilidades en este campo son infinitas, la integración y fusión de dife
 4. **Trabajo en equipo**: Uno de los puntos destacables de la hibridación seria la posibilidad de trabajar en equipo, cooperar o colaborar en un mismo entorno digital por varias personas a la vez, independientemente de la ubicación de cada una de ellas. Poder trabajar en tiempo real sobre un modelo 3D supone un gran avance tecnológico, facilitando así el trabajo a distancia de diferentes profesionales. Concretamente la aplicación **Microsoft Mesh** permite a los usuarios de **HoloLens 2** poder realizar esta tarea.
 5. **Escaneo del entorno**:
 6. **Modelado 3D**:
+
+### Conclusiones
+
+Lorem
 
 ## Re-descubriendo la hibridación: Intel Shooting Star
 
