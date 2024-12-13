@@ -17,7 +17,7 @@ En ambos casos se plantearán y comentarán aquellas características principale
 
 Las **HoloLens 2** son un dispositivo desarrollado por el gigante Microsoft de realidad mixta. Con estas gafas se puede combinar la realidad virtual (VR) y la realidad augmentada (AR), por lo que tenemos un amplio abanico de posibilidades para enfocar esta tecnología, ya sea a nivel de entretenimiento, investigación o exploración.
 
-Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes medios audiovisuales, podremos tener una inmersión en primera persona en distintas experiencias. Estas experiencias como he comentado anteriormente se pueden centrar simplemente en el entretenimiento del usuario o llevarlo un escalón más allá y utilizarlo para la investigación y/o prácticas clínicas, fomentando así su uso a nivel educativo y profesional.
+Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes medios audiovisuales, podremos tener una inmersión en primera persona en distintas experiencias. Estas experiencias como he comentado anteriormente se pueden centrar simplemente en el entretenimiento del usuario, como por ejemplo los videojuegos, o llevarlo un escalón más allá y utilizarlo para la investigación y/o prácticas clínicas, fomentando así su uso a nivel educativo y profesional.
 
 ![hololens](image1.jpg)
 
