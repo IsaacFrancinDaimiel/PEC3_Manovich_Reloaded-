@@ -36,7 +36,12 @@ Las posibilidades en este campo son infinitas, la integración y fusión de dife
 
 La hibridación ha permitido con este dispositivo aprovechar diversos medios audiovisuales o tecnologías ya creadas anteriormente, darles otra vuelta de rosca, y potenciarlas para nuevos usos. Pudiendo así realizar simulaciones médicas en realidad mixta muy fieles a la realidad para avanzar notablemente en el campo sanitario, concretamente con las cirugías que son un escenario muy delicado, muchas técnicas avanzadas son complicadas de recrear de forma artificial, y con este dispositivo podemos realizarlas en un entorno seguro, con muchas ventajas téncnicas y cooperación de otros profesionales de la salud en tiempo real.
 
+### Enlaces de interés
+[](https://news.microsoft.com/es-xl/features/el-proyecto-hololens-permite-colaborar-a-cirujanos-de-todo-el-mundo/)
+[](https://es.gizmodo.com/asi-estan-empezando-a-usarse-las-hololens-de-microsoft-1819797492)
+[](https://www.inoutviajes.com/noticia/14966/otras-noticias/hololens-2-el-dispositivo-que-abre-la-puerta-a-la-cirugia-en-remoto-a-nivel-mundial.html)
+
 ## Re-descubriendo la hibridación: Intel Shooting Star
 
-Lorem Ipsu
+
 
