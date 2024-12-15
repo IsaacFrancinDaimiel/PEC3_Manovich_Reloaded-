@@ -34,7 +34,7 @@ Las posibilidades en este campo son infinitas, la integración y fusión de dife
 
 ### Conclusiones
 
-Lorem
+La hibridación ha permitido con este dispositivo aprovechar diversos medios audiovisuales o tecnologías ya creadas anteriormente, darles otra vuelta de rosca, y potenciarlas para nuevos usos. Pudiendo así realizar simulaciones médicas en realidad mixta muy fieles a la realidad para avanzar notablemente en el campo sanitario, concretamente con las cirugías que son un escenario muy delicado, muchas técnicas avanzadas son complicadas de recrear de forma artificial, y con este dispositivo podemos realizarlas en un entorno seguro, con muchas ventajas téncnicas y cooperación de otros profesionales de la salud.
 
 ## Re-descubriendo la hibridación: Intel Shooting Star
 
