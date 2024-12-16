@@ -12,7 +12,8 @@ El primer caso planteado será el visor de realidad mixta **HoloLens 2 de Micros
 El segundo caso planteado será el modelo de drones **Intel Shooting Star**.
 hando conceptos tecnológicos anteriores, si no que en su propia evolución se han adaptado y re-descubierto nuevas utilidades y funciones que aún hacen de estos dos elementos dos casos muy interesantes.
 
-En ambos casos se plantearán y comentarán aquellas características principales que hacen de estos dos casos escogidos perfectos ejemplos de **hibridación moderna**, veremos como no solamente se han reinventado aprovec
+En ambos casos se plantearán y comentarán aquellas características  principales que hacen de estos dos casos escogidos perfectos ejemplos de **hibridación moderna**, veremos como no solamente se han reinventado  aprovechando conceptos tecnológicos anteriores, sino que en su propia evolución se han adaptado y redescubierto nuevas utilidades y funciones que aún hacen de estos dos elementos dos casos muy interesantes.
+
 ## Re-descubriendo la hibridación: Microsoft HoloLens 2
 
 Las **HoloLens 2** son un dispositivo de realidad mixta desarrollado por el gigante **Microsoft**. Con estas gafas se puede combinar la realidad virtual (VR) y la realidad augmentada (AR), por lo que tenemos un amplio abanico de posibilidades para enfocar esta tecnología, ya sea a nivel de entretenimiento, investigación o exploración.
@@ -48,6 +49,8 @@ La hibridación ha permitido con este dispositivo aprovechar diversos medios aud
 Los drones empezaron a utilizarse a partir de la década del 2000. Su  utilización no era tan a nivel personal como en la actualidad sino que se empezaron a utilizar para realizar fotografía aérea para reconocimientos del lugar, mapear grandes zonas, en la agricultura de precisión, como sistema de vigilancia, etc.
 
 Su constante evolución, tanto en características técnicas como en usos comerciales o personales ha hecho que su  utilización también explore nuevos campos en los que en un principio no  estaban pensados para su uso, uno de ellos son los espectáculos de luces en el aire, utilizando cientos de luces LED programables.
+
+![IntelShootingStar0](image2.jpg)
 
 Los espectáculos de luces LED con drones es una forma innovadora de iluminar el cielo con distintas formas o dibujos, realizar una coreografía, incluso proyectar una pequeña historia. Estos drones permiten una hibridación de la tecnología y el arte visual.
 
