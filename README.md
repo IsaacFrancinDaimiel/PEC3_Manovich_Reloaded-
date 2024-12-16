@@ -45,5 +45,40 @@ La hibridación ha permitido con este dispositivo aprovechar diversos medios aud
 
 ## Re-descubriendo la hibridación: Intel Shooting Star
 
+Los drones empezaron a utilizarse a partir de la década del 2000. Su  utilización no era tan a nivel personal como en la actualidad sino que se empezaron a utilizar para realizar fotografía aérea para reconocimientos del lugar, mapear grandes zonas, en la agricultura de precisión, como sistema de vigilancia, etc.
+
+Su constante evolución, tanto en características técnicas como en usos comerciales o personales ha hecho que su  utilización también explore nuevos campos en los que en un principio no  estaban pensados para su uso, uno de ellos son los espectáculos de luces en el aire, utilizando cientos de luces LED programables.
+
+Los espectáculos de luces LED con drones es una forma innovadora de iluminar el cielo con distintas formas o dibujos, realizar una coreografía, incluso proyectar una pequeña historia. Estos drones permiten una hibridación de la tecnología y el arte visual.
+
+No todos los drones sirven para este fin, la línea de drones **Intel Shooting Star** están pensados especialmente para realizar espectáculos de luces, su fuente  de luz tiene la capacidad de crear más de 4000 millones de combinaciones de colores, pudiendo desplazarse incluso al ritmo de una canción. No  necesitan de un sistema de GPS, ni de ser controlados individualmente  por un piloto, de hecho un solo piloto podría llegar a controlar hasta  100 drones a la vez, se programan con un sistema especial, se sueltan en el aire y cada dron ya tiene programada toda su rutina, obteniendo una  sincronización espectacular entre todos ellos.
+
+Los elementos clave que hacen posible esta hibridación son los siguientes:
+
+1. **Luces LED programables:** Este modelo de dron tiene la capacidad de crear más de 4000 millones de  combinaciones de colores, por lo que tiene una flexibilidad casi  ilimitada en cuanto a colores, intensidad y patrones para recrear las  figuras, formas o efectos deseados. Con este gran margen podremos  recrear desde espectáculos más básicos a espectáculos complejos que  integren música, sonidos, movimiento, efectos o algún tipo de narración concreta.
+2. **Control y posicionamiento avanzado:** El control centralizado que proporcionan estos drones, junto con un  posicionamiento avanzado nos proporciona una sincronización excelente,  junto con un sistema de algoritmos con el que podremos proyectar figuras históricas, logotipos de empresas o marcas, banderas de países o representar temas culturales, históricos o de un interés concreto para un evento en cuestión.
+3. **Utilización:** El uso de estos drones puede ser muy diverso, ya que en función de las necesidades de la empresa, institución o asociación contratante puede estar orientado a un fin u otro, como por ejemplo:
+   - Publicidad y marketing  (campañas publicitarias, logos empresas...)
+   - Causas sociales (datos científicos, patrones de contaminación, biodiversidad en peligro, cambio climático...)
+   - Espectáculos (conciertos, teatros, juegos olímpicos, eventos deportivos, conmemoraciones históricas...)
+   - Cinematográfico (documentales, programas de televisión, cine...)
+   - Turismo y ocio (bodas, cumpleaños, espectáculos en puntos turísticos, parques de atracciones, zonas naturales...)
+
+### **Conclusiones**
+
+Lorem
+
+### **Enlaces de interés**
+
+1. [https://www.xataka.com/drones/mas-de-1200-drones-volando-al-mismo-tiempo-el-video-del-espectaculo-de-luces-de-los-juegos-olimpicos-de-invierno](https://www.xataka.com/drones/mas-de-1200-drones-volando-al-mismo-tiempo-el-video-del-espectaculo-de-luces-de-los-juegos-olimpicos-de-invierno)
+
+2. [https://hacedores.com/drones-shooting-stars/](https://hacedores.com/drones-shooting-stars/)
+
+3. [https://www.digitalavmagazine.com/2016/11/08/con-el-dron-shooting-star-intel-crea-coreografias-de-luces-en-el-cielo-nocturno/](https://www.digitalavmagazine.com/2016/11/08/con-el-dron-shooting-star-intel-crea-coreografias-de-luces-en-el-cielo-nocturno/)
+
+**Vídeo de muestra**: [https://www.youtube.com/watch?v=A4afTwJABkk](https://www.youtube.com/watch?v=A4afTwJABkk)
+
+## **Bibliografía**
+
 
 
