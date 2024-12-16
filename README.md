@@ -50,7 +50,7 @@ Los drones empezaron a utilizarse a partir de la década del 2000. Su  utilizaci
 
 Su constante evolución, tanto en características técnicas como en usos comerciales o personales ha hecho que su  utilización también explore nuevos campos en los que en un principio no  estaban pensados para su uso, uno de ellos son los espectáculos de luces en el aire, utilizando cientos de luces LED programables.
 
-![IntelShootingStar0](image2.jpg)
+![IntelShootingStar0](image2.png)
 
 Los espectáculos de luces LED con drones es una forma innovadora de iluminar el cielo con distintas formas o dibujos, realizar una coreografía, incluso proyectar una pequeña historia. Estos drones permiten una hibridación de la tecnología y el arte visual.
 
