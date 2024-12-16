@@ -83,5 +83,50 @@ La hibridación ha permitido en los drones aprovechar sus caracteristicas princi
 
 ## **Bibliografía**
 
+UOC (Recursos de aprendizaje) [en línea] [fecha de consulta: 2 de diciembre de 2024]. Disponible en: 
+
+[https://aula.uoc.edu/courses/43275/pages/recursos-de-aprendizaje-pec3?module_item_id=1754887](https://aula.uoc.edu/courses/43275/pages/recursos-de-aprendizaje-pec3?module_item_id=1754887)
+
+Typora [en línea] [fecha de consulta: 3 de diciembre de 2024]. Disponible en: 
+
+[https://typora.io/](https://typora.io/)
+
+ChatGPT (Imágenes) [en línea] [fecha de consulta: 6 de diciembre de 2024]. Disponible en: 
+
+[https://chatgpt.com/](https://chatgpt.com/)
+
+AS (Imágen) [en línea] [fecha de consulta: 6 de diciembre de 2024]. Disponible en: 
+
+[https://as.com/deporteyvida/2019/02/25/portada/1551089734_319923.html](https://as.com/deporteyvida/2019/02/25/portada/1551089734_319923.html)
+
+Microsoft (información) [en línea] [fecha de consulta: 10 de diciembre de 2024]. Disponible en: 
+
+[https://news.microsoft.com/es-xl/features/el-proyecto-hololens-permite-colaborar-a-cirujanos-de-todo-el-mundo/](https://news.microsoft.com/es-xl/features/el-proyecto-hololens-permite-colaborar-a-cirujanos-de-todo-el-mundo/)
+
+Gizmodo (información) [en línea] [fecha de consulta: 10 de diciembre de 2024]. Disponible en: 
+
+[https://es.gizmodo.com/asi-estan-empezando-a-usarse-las-hololens-de-microsoft-1819797492](https://es.gizmodo.com/asi-estan-empezando-a-usarse-las-hololens-de-microsoft-1819797492)
+
+Inoutviajes (información) [en línea] [fecha de consulta: 10 de diciembre de 2024]. Disponible en: 
+
+[https://www.inoutviajes.com/noticia/14966/otras-noticias/hololens-2-el-dispositivo-que-abre-la-puerta-a-la-cirugia-en-remoto-a-nivel-mundial.html](https://www.inoutviajes.com/noticia/14966/otras-noticias/hololens-2-el-dispositivo-que-abre-la-puerta-a-la-cirugia-en-remoto-a-nivel-mundial.html)
+
+Xataka (información) [en línea] [fecha de consulta: 14 de diciembre de 2024]. Disponible en: 
+
+[https://www.xataka.com/drones/mas-de-1200-drones-volando-al-mismo-tiempo-el-video-del-espectaculo-de-luces-de-los-juegos-olimpicos-de-invierno](https://www.xataka.com/drones/mas-de-1200-drones-volando-al-mismo-tiempo-el-video-del-espectaculo-de-luces-de-los-juegos-olimpicos-de-invierno)
+
+Hacedores (información) [en línea] [fecha de consulta: 14 de diciembre de 2024]. Disponible en: 
+
+[https://hacedores.com/drones-shooting-stars/](https://hacedores.com/drones-shooting-stars/)
+
+Digitalavmagazine (información) [en línea] [fecha de consulta: 14 de diciembre de 2024]. Disponible en: 
+
+[https://www.digitalavmagazine.com/2016/11/08/con-el-dron-shooting-star-intel-crea-coreografias-de-luces-en-el-cielo-nocturno/](https://www.digitalavmagazine.com/2016/11/08/con-el-dron-shooting-star-intel-crea-coreografias-de-luces-en-el-cielo-nocturno/)
+
+Youtube (vídeo) [en línea] [fecha de consulta: 14 de diciembre de 2024]. Disponible en: 
+
+[https://www.youtube.com/watch?v=A4afTwJABkk](https://www.youtube.com/watch?v=A4afTwJABkk)
+
+
 
 
