@@ -1,7 +1,7 @@
 # Visionando el futuro con las gafas de Manovich
 #### Universitat Oberta de Catalunya - Cultura digital - PEC03
 #### Isaac Francín Daimiel
-#### 22/12/2024
+#### 20/12/2024
 ![portada](image.png)
 ## Planteamiento
 
