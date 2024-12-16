@@ -66,7 +66,7 @@ Los elementos clave que hacen posible esta hibridación son los siguientes:
 
 ### **Conclusiones**
 
-Lorem
+La hibridación ha permitido en los drones aprovechar sus caracteristicas principales y fusionarlas con otra serie de características  tecnológicas permitiendo así su exploración en otros terrenos y potenciando el uso de estos. Esto a su vez a permitido una mayor comercialización, abaratando el coste de productividad y pudiendo ser mucho más accesible incluso a nivel particular. Aún hay muchos inconvenientes y desafios en el camino, como por ejemplo lidiar con las condiciones climáticas adversas (viento fuerte, lluvia...), duración limitada de la batería, integración de la IA en los drones, reducir la contaminación acústica, etc...
 
 ### **Enlaces de interés**
 
