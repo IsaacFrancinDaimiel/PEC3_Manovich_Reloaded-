@@ -20,9 +20,13 @@ Las **HoloLens 2** son un dispositivo de realidad mixta desarrollado por el giga
 
 Con estas gafas de realidad mixta, que fusionará las virtudes de diferentes medios audiovisuales, podremos tener una inmersión en primera persona en distintas experiencias. Estas experiencias como he comentado anteriormente se pueden centrar simplemente en el entretenimiento del usuario, como por ejemplo los videojuegos, o llevarlo un escalón más allá y utilizarlo para la investigación y/o prácticas clínicas, fomentando así su uso a nivel educativo, laboral y profesional.
 
+>"En resumen, un híbrido puede definir nuevas técnicas de navegación e  interacción que funcionan con formatos de medios no modificados[...]" (Manovich, 2013)
+
 ![hololens](image1.jpg)
 
 En el ámbito que me centraré yo será el sanitario. Con la ejecución de diferentes aplicaciones compatibles con el software de estas gafas podremos ejecutar, recrear e interaccionar con diferentes entornos médicos y poner en práctica o perfeccionar diferentes habilidades y procedimientos de cirugías asistidas en modelos 3D superpuestos en tiempo real, haciendo uso de la realidad augmentada entre otras.
+
+>"En lugar de numerosos materiales e instrumentos por separado, ahora  podemos utilizar una única aplicación de software cuyas herramientas y  filtros pueden simular diversas técnicas de creación y modificación de  medios. Los efectos que anteriormente no podían combinarse, puesto que  eran específicos de unos materiales concretos, ahora son accesibles  desde un simple menú desplegable." (Manovich, 2013)
 
 Las posibilidades en este campo son infinitas, la integración y fusión de diferentes tecnologías audiovisuales lo hacen todavía mucho más funcional, más allá de la realidad mixta que ya de por si nos ofrece este dispositivo, la hibridación hace posible una serie de características y funcionalidades, comentaré algunas de ellas:
 
@@ -32,6 +36,8 @@ Las posibilidades en este campo son infinitas, la integración y fusión de dife
 4. **Trabajo en equipo**: Uno de los puntos destacables de la hibridación seria la posibilidad de trabajar en equipo, cooperar o colaborar en un mismo entorno digital por varias personas a la vez, independientemente de la ubicación de cada una de ellas. Poder trabajar en tiempo real sobre un modelo 3D supone un gran avance tecnológico, facilitando así el trabajo a distancia de diferentes profesionales de la sanidad. Concretamente la aplicación **Microsoft Mesh** permite a los usuarios de **HoloLens 2** poder realizar esta tarea.
 5. **Escaneo del entorno**: El escaneo del entorno en tiempo real da paso a otra serie de características clave, ya que esto nos permitirá integrar modelos holográficos de una forma totalmente fiel a nuestro mundo real, en este caso hospitales, clínicas, consultas, etc.
 6. **Modelado 3D**: En un entorno médico donde poder practicar ciertas habilidades sanitarias se hace muy complicado por lo obvio, será de gran ayuda tener modelos tridimensionales para poder recrear desde operaciones médicas comunes hasta las más avanzadas. El hecho de poder manipular, girar, explorar sin ningún tipo de riesgo para el paciente y en un entorno totalmente seguro para el profesional hace de esta una opción muy interesante para este campo, ya que podremos simular cualquier situación médica.
+
+>"En suma, la compatibilidad entre el software de diseño gráfico,  ilustración, animación, edición de vídeo, modelado y animación en 3D y efectos visuales tiene reservado un papel esencial en la configuración  de las formas visuales y espaciales de la era del software." (Manovich, 2013)
 
 ### Conclusiones
 
@@ -54,7 +60,11 @@ Su constante evolución, tanto en características técnicas como en usos comerc
 
 Los espectáculos de luces LED con drones es una forma innovadora de iluminar el cielo con distintas formas o dibujos, realizar una coreografía, incluso proyectar una pequeña historia. Estos drones permiten una hibridación de la tecnología y el arte visual.
 
+>"Creo que la «hibridez de los medios» constituye una nueva fase esencial  de la historia de los medios. Se manifiesta en distintos ámbitos de la  cultura[...]"(Manovich, 2013)
+
 No todos los drones sirven para este fin, la línea de drones **Intel Shooting Star** están pensados especialmente para realizar espectáculos de luces, su fuente  de luz tiene la capacidad de crear más de 4000 millones de combinaciones de colores, pudiendo desplazarse incluso al ritmo de una canción. No  necesitan de un sistema de GPS, ni de ser controlados individualmente  por un piloto, de hecho un solo piloto podría llegar a controlar hasta  100 drones a la vez, se programan con un sistema especial, se sueltan en el aire y cada dron ya tiene programada toda su rutina, obteniendo una  sincronización espectacular entre todos ellos.
+
+>"Como cualquier otra automatización, la exposición automática requiere  más pasos informáticos que el uso de ajustes manuales[...]" (Manovich, 2013)
 
 Los elementos clave que hacen posible esta hibridación son los siguientes:
 
@@ -81,9 +91,9 @@ La hibridación ha permitido en los drones aprovechar sus caracteristicas princi
 
 **Vídeo de muestra**: [https://www.youtube.com/watch?v=A4afTwJABkk](https://www.youtube.com/watch?v=A4afTwJABkk)
 
-## **Bibliografía**
+## ** Referencias y Bibliografía**
 
-Manovich, Lev. (2013). El Software toma el mando. [en línea] [fecha de consulta: 2 de diciembre de 2024]. Disponible en: 
+ Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 
 [https://aula.uoc.edu/courses/43275/pages/recursos-de-aprendizaje-pec3?module_item_id=1754887](https://aula.uoc.edu/courses/43275/pages/recursos-de-aprendizaje-pec3?module_item_id=1754887)
 
