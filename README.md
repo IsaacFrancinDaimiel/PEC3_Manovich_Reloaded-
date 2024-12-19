@@ -85,7 +85,7 @@ La hibridación ha permitido en los drones aprovechar sus caracteristicas princi
 
 Manovich, Lev. (2013). El Software toma el mando. [en línea] [fecha de consulta: 2 de diciembre de 2024]. Disponible en: 
 
-[moz-extension://88a0c059-e21a-47c8-b8df-969a6a17d7e0/reader.html?filename=https%3A%2F%2Fwww.campus.uoc.edu%2Fbiblioteca%2Fprestatgeries%2Fepub%2F9788490640227.epub](moz-extension://88a0c059-e21a-47c8-b8df-969a6a17d7e0/reader.html?filename=https%3A%2F%2Fwww.campus.uoc.edu%2Fbiblioteca%2Fprestatgeries%2Fepub%2F9788490640227.epub)
+[https://aula.uoc.edu/courses/43275/pages/recursos-de-aprendizaje-pec3?module_item_id=1754887](https://aula.uoc.edu/courses/43275/pages/recursos-de-aprendizaje-pec3?module_item_id=1754887)
 
 UOC (Recursos de aprendizaje) [en línea] [fecha de consulta: 2 de diciembre de 2024]. Disponible en: 
 
