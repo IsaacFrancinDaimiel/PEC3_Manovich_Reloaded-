@@ -46,7 +46,7 @@ La hibridación ha permitido con este dispositivo aprovechar diversos medios aud
 
 ## Re-descubriendo la hibridación: Intel Shooting Star
 
-Los drones empezaron a utilizarse a partir de la década del 2000. Su  utilización no era tan a nivel personal como en la actualidad sino que se empezaron a utilizar para realizar fotografía aérea para reconocimientos del lugar, mapear grandes zonas, en la agricultura de precisión, como sistema de vigilancia, etc.
+Los drones empezaron a utilizarse a partir de la década del 2000. Su  utilización no era tan a nivel personal como en la actualida, sino que se empezaron a utilizar para realizar fotografía aérea para reconocimientos del lugar, mapear grandes zonas, en la agricultura de precisión, como sistema de vigilancia, etc.
 
 Su constante evolución, tanto en características técnicas como en usos comerciales o personales ha hecho que su  utilización también explore nuevos campos en los que en un principio no  estaban pensados para su uso, uno de ellos son los espectáculos de luces en el aire, utilizando cientos de luces LED programables.
 
