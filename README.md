@@ -43,13 +43,6 @@ Las posibilidades en este campo son infinitas, la integración y fusión de dife
 
 La hibridación ha permitido con este dispositivo aprovechar diversos medios audiovisuales o tecnologías ya creadas anteriormente, darles otra vuelta de rosca, y potenciarlas para nuevos usos. Pudiendo así realizar simulaciones médicas en realidad mixta muy fieles a la realidad para avanzar notablemente en el campo sanitario, concretamente con las cirugías que son un escenario muy delicado, muchas técnicas avanzadas son complicadas de recrear de forma artificial, y con este dispositivo podemos realizarlas en un entorno seguro, con muchas ventajas téncnicas y cooperación de otros profesionales de la salud en tiempo real.
 
-### Enlaces de interés
-1. [https://news.microsoft.com/es-xl/features/el-proyecto-hololens-permite-colaborar-a-cirujanos-de-todo-el-mundo/](https://news.microsoft.com/es-xl/features/el-proyecto-hololens-permite-colaborar-a-cirujanos-de-todo-el-mundo/)
-
-2. [https://es.gizmodo.com/asi-estan-empezando-a-usarse-las-hololens-de-microsoft-1819797492](https://es.gizmodo.com/asi-estan-empezando-a-usarse-las-hololens-de-microsoft-1819797492)
-
-3. [https://www.inoutviajes.com/noticia/14966/otras-noticias/hololens-2-el-dispositivo-que-abre-la-puerta-a-la-cirugia-en-remoto-a-nivel-mundial.html](https://www.inoutviajes.com/noticia/14966/otras-noticias/hololens-2-el-dispositivo-que-abre-la-puerta-a-la-cirugia-en-remoto-a-nivel-mundial.html)
-
 ## Re-descubriendo la hibridación: Intel Shooting Star
 
 Los drones empezaron a utilizarse a partir de la década del 2000. Su  utilización no era tan a nivel personal como en la actualida, sino que se empezaron a utilizar para realizar fotografía aérea para reconocimientos del lugar, mapear grandes zonas, en la agricultura de precisión, como sistema de vigilancia, etc.
@@ -83,13 +76,7 @@ Los elementos clave que hacen posible esta hibridación son los siguientes:
 
 La hibridación ha permitido en los drones aprovechar sus caracteristicas principales y fusionarlas con otra serie de características  tecnológicas permitiendo así su exploración en otros terrenos y potenciando el uso de estos. Esto a su vez a permitido una mayor comercialización, abaratando el coste de productividad y pudiendo ser mucho más accesible incluso a nivel particular. Aún hay muchos inconvenientes y desafios en el camino, como por ejemplo lidiar con las condiciones climáticas adversas (viento fuerte, lluvia...), duración limitada de la batería, integración de la IA en los drones, reducir la contaminación acústica, etc...
 
-### **Enlaces de interés**
-
-1. [https://www.xataka.com/drones/mas-de-1200-drones-volando-al-mismo-tiempo-el-video-del-espectaculo-de-luces-de-los-juegos-olimpicos-de-invierno](https://www.xataka.com/drones/mas-de-1200-drones-volando-al-mismo-tiempo-el-video-del-espectaculo-de-luces-de-los-juegos-olimpicos-de-invierno)
-
-2. [https://hacedores.com/drones-shooting-stars/](https://hacedores.com/drones-shooting-stars/)
-
-3. [https://www.digitalavmagazine.com/2016/11/08/con-el-dron-shooting-star-intel-crea-coreografias-de-luces-en-el-cielo-nocturno/](https://www.digitalavmagazine.com/2016/11/08/con-el-dron-shooting-star-intel-crea-coreografias-de-luces-en-el-cielo-nocturno/)
+### **Enlace de interés**
 
 **Vídeo de muestra**: [https://www.youtube.com/watch?v=A4afTwJABkk](https://www.youtube.com/watch?v=A4afTwJABkk)
 
